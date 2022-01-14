@@ -1,2 +1,2 @@
 # Calculator
-NHN_Comm Test
+기술교육 - NHN_Comm Test
